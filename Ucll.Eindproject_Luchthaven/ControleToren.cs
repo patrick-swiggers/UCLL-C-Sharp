@@ -66,7 +66,7 @@ namespace Ucll.Eindproject_Luchthaven
 
         /*
          * Tuple:
-         * Item1: String    / Vluchtode
+         * Item1: String    / Vluchtcode
          * Item2: bool      / Onderhoud uitgevoerd
          * Item3: int       / Is reeds Airborne (value = -1)
          */
